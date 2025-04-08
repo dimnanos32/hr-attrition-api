@@ -4,6 +4,5 @@ scikit-learn
 numpy
 pandas
 joblib
-warnings
 pydantic
 typing
